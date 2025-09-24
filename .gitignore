@@ -1,2 +1,3 @@
 # Ignore all .exe files in this folder and every subfolder
 *.exe
+**/.cph/
